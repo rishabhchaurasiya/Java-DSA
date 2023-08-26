@@ -49,6 +49,7 @@ public class Solution {
  
                 // If immediate pop have open parenthesis '('
                 // duplicate brackets found
+                //hii
                 boolean flag = true;
  
                 while (top != '(') {
